@@ -8,7 +8,7 @@
 
 
 /* Table of contents
-–––––––––––––––––––––––––––––––––––––––––––––––––– 
+––––––––––––––––––––––––––––––––––––––––––––––––––
 - 1. Common
 - 2. Header
 - 3. Footer
@@ -39,8 +39,8 @@ h1,h2,h3,h4,h5,h6{
 a{
   text-decoration:none !important;
 }
-a:focus { 
-      outline: none; 
+a:focus {
+      outline: none;
 }
 
 /*Preloader*/
@@ -225,11 +225,11 @@ nav.mastnav{
   list-style-type: none;
   margin: 0;
   padding: 0;
-            -webkit-transform: scale(0.8); 
-            -moz-transform: scale(0.8); 
-             -ms-transform: scale(0.8); 
-            -o-transform: scale(0.8); 
-            transform: scale(0.8); 
+            -webkit-transform: scale(0.8);
+            -moz-transform: scale(0.8);
+             -ms-transform: scale(0.8);
+            -o-transform: scale(0.8);
+            transform: scale(0.8);
             -webkit-transition: all .4s ease-in-out;
                -moz-transition: all .4s ease-in-out;
                 -ms-transition: all .4s ease-in-out;
@@ -237,11 +237,11 @@ nav.mastnav{
                     transition: all .4s ease-in-out;
 }
 .menu-panel nav > ul:hover{
-            -webkit-transform: scale(1.1); 
-            -moz-transform: scale(1.1); 
-             -ms-transform: scale(1.1); 
-            -o-transform: scale(1.1); 
-            transform: scale(1.1); 
+            -webkit-transform: scale(1.1);
+            -moz-transform: scale(1.1);
+             -ms-transform: scale(1.1);
+            -o-transform: scale(1.1);
+            transform: scale(1.1);
             -webkit-transition: all .4s ease-in-out;
                -moz-transition: all .4s ease-in-out;
                 -ms-transition: all .4s ease-in-out;
@@ -251,7 +251,7 @@ nav.mastnav{
 .menu-panel ul li{
   display: block;
 }
-.menu-panel ul li a{    
+.menu-panel ul li a{
     font-size: 1.8rem;
     letter-spacing: 1.2rem;
     line-height: 2.8;
@@ -317,11 +317,11 @@ section.mastwrap{
                     transition: all .4s ease-in-out;
 }
 .intro .tp-bullets:hover{
-            -webkit-transform: scale(1.8); 
-            -moz-transform: scale(1.8); 
-             -ms-transform: scale(1.8); 
-            -o-transform: scale(1.8); 
-            transform: scale(1.8); 
+            -webkit-transform: scale(1.8);
+            -moz-transform: scale(1.8);
+             -ms-transform: scale(1.8);
+            -o-transform: scale(1.8);
+            transform: scale(1.8);
             -webkit-transition: all .4s ease-in-out;
                -moz-transition: all .4s ease-in-out;
                 -ms-transition: all .4s ease-in-out;
@@ -350,7 +350,7 @@ section.mastwrap{
   letter-spacing: 8px;
 }
 
-        .featured-work-caption > span:after{ 
+        .featured-work-caption > span:after{
           content: ' ';
           width: 60px;
           height: 6px;
@@ -395,7 +395,7 @@ section.mastwrap{
           margin-right: 15px;
 }
 
-        .personal-intro-caption > span:after{ 
+        .personal-intro-caption > span:after{
           content: ' ';
           width: 60px;
           height: 18px;
@@ -441,7 +441,7 @@ section.mastwrap{
           margin-bottom: 10px;
 }
 
-        .photography-intro-caption > span:after{ 
+        .photography-intro-caption > span:after{
           content: '';
           width: 60%;
           height: 6px;
@@ -488,7 +488,7 @@ section.mastwrap{
 .features-inner{
   padding: 140px;
 }
-.features-inner h3{    
+.features-inner h3{
   font-size: 32px;
     letter-spacing: 4px;
     line-height: 44px;
@@ -514,7 +514,7 @@ section.mastwrap{
   display: none;
   position: fixed;
   bottom: 0;
-  right: 0; 
+  right: 0;
   padding: 20px;
   z-index: 10;
             -webkit-transition: all .4s ease-in-out;
@@ -612,7 +612,7 @@ section.mastwrap{
             text-align: left;
             padding: 60px;
         }
-        .works-item-inner h3 > span{ 
+        .works-item-inner h3 > span{
             font-size: 16px;
             letter-spacing: 0px;
             line-height: 23px;
@@ -621,7 +621,7 @@ section.mastwrap{
             font-weight: 200;
             letter-spacing: 8px;
         }
-        .works-item-inner h3:after{ 
+        .works-item-inner h3:after{
           content: ' ';
           width: 60px;
           height: 6px;
@@ -629,20 +629,20 @@ section.mastwrap{
           text-align: left;
           margin-top: 5px;
         }
-        .works-item-inner p{  
+        .works-item-inner p{
           margin-top: 5px;
         }
-        .works-item-inner p > span{  
+        .works-item-inner p > span{
             font-size: 14px;
             line-height: 21px;
             margin-top: 10px;
             letter-spacing: 0px;
         }
-        .works-item a:hover 
-        .works-item-inner h3{ 
+        .works-item a:hover
+        .works-item-inner h3{
         }
-        .works-item a:hover 
-        .works-item-inner p{  
+        .works-item a:hover
+        .works-item-inner p{
         }
 
 .works-item-fade{
@@ -717,7 +717,7 @@ section.mastwrap{
   margin-bottom: 5px;
   padding: 5px 0;
   border-bottom: solid 2px;
-  
+
 }
 /*WORKS*/
 
@@ -793,7 +793,7 @@ section.mastwrap{
             text-align: left;
             padding: 90px;
         }
-        .journal-item-inner h3 > span{ 
+        .journal-item-inner h3 > span{
             font-size: 16px;
             letter-spacing: 0px;
             line-height: 23px;
@@ -802,7 +802,7 @@ section.mastwrap{
             font-weight: 200;
             letter-spacing: 8px;
         }
-        .journal-item-inner h3:after{ 
+        .journal-item-inner h3:after{
           content: ' ';
           width: 60px;
           height: 6px;
@@ -810,20 +810,20 @@ section.mastwrap{
           text-align: left;
           margin-top: 10px;
         }
-        .journal-item-inner p{  
+        .journal-item-inner p{
           margin-top: 15px;
         }
-        .journal-item-inner p > span{  
+        .journal-item-inner p > span{
             font-size: 14px;
             line-height: 21px;
             margin-top: 0px;
             letter-spacing: 0px;
         }
-        .journal-item a:hover 
-        .journal-item-inner h3{ 
+        .journal-item a:hover
+        .journal-item-inner h3{
         }
-        .journal-item a:hover 
-        .journal-item-inner p{  
+        .journal-item a:hover
+        .journal-item-inner p{
         }
 
 .journal-item-fade{
@@ -954,20 +954,20 @@ section.mastwrap{
 }
 .team-members .row:nth-child(odd) .team-info:before{
   content: '';
-   width: 0; 
-   height: 0; 
-   border-top: 10px solid transparent; 
-   border-right: 20px solid; 
+   width: 0;
+   height: 0;
+   border-top: 10px solid transparent;
+   border-right: 20px solid;
    border-bottom: 10px solid transparent;
    position: absolute;
    left: -5px;
 }
 .team-members .row:nth-child(even) .team-info:before{
   content: '';
-   width: 0; 
-   height: 0; 
-   border-top: 10px solid transparent; 
-   border-left: 20px solid; 
+   width: 0;
+   height: 0;
+   border-top: 10px solid transparent;
+   border-left: 20px solid;
    border-bottom: 10px solid transparent;
    position: absolute;
    right: -5px;
@@ -1365,8 +1365,8 @@ fieldset h1 {
   background-size: cover !important;
 }
 
-    
-/* Portfolio Isotope Transitions */ 
+
+/* Portfolio Isotope Transitions */
 
     .isotope, .isotope .isotope-item {
         -webkit-transition-duration: 0.8s;
@@ -1375,7 +1375,7 @@ fieldset h1 {
         -o-transition-duration: 0.8s;
         transition-duration: 0.8s;
     }
-    
+
     .isotope {
         -webkit-transition-property: height, width;
         -moz-transition-property: height, width;
@@ -1383,7 +1383,7 @@ fieldset h1 {
         -o-transition-property: height, width;
         transition-property: height, width;
     }
-    
+
     .isotope .isotope-item {
         -webkit-transition-property: -webkit-transform, opacity;
         -moz-transition-property: -moz-transform, opacity;
@@ -1391,7 +1391,7 @@ fieldset h1 {
         -o-transition-property: -o-transform, opacity;
         transition-property: transform, opacity;
     }
-    
+
     .isotope.no-transition, .isotope.no-transition .isotope-item, .isotope .isotope-item.no-transition {
         -webkit-transition-duration: 0s;
         -moz-transition-duration: 0s;
@@ -1475,4 +1475,4 @@ fieldset h1 {
 }
 
 /*LESS Compiled to CSS (for production use only) - please refer to PDF guide for more info*/
-.color{color:#00f9cf}.white{color:#fff}.silver{color:#f8f8fa}.grey{color:#ccc}.dark{color:#232323}.black,a{color:#121212}.color-bg{background-color:#00f9cf}.white-bg{background-color:#fff}.silver-bg{background-color:#f8f8fa}.grey-bg{background-color:#ccc}.dark-bg{background-color:#232323}.black-bg{background-color:#121212}.btn-nobel-color:hover,.featured-work-caption>span:after,.filter-trigger:hover,.journal-item-inner h3:after,.personal-intro-caption>span:after,.personal-intro-caption>span:before,.photography-intro-caption>span:after,.photography-intro-caption>span:before,.works-item-inner h3:after{background-color:#00f9cf}a:hover{color:#00f9cf}::selection{background:#00f9cf;color:#232323}::-moz-selection{background:#00f9cf;color:#232323}.menu-panel ul li a{color:#fff}.footcaps .video-trigger:hover i,.menu-panel ul li a:hover{color:#00f9cf}.team-members .row:nth-child(odd) .team-info:before{border-right-color:#00f9cf}.team-members .row:nth-child(even) .team-info:before{border-left-color:#00f9cf}.btn-nobel-color{border-color:#00f9cf;color:#00f9cf}.btn-nobel-color:hover{border-color:#00f9cf;color:#fff}.font1{font-family:'Istok Web',sans-serif}.font2{font-family:montserrat,sans-serif}.font2hairline{font-family:montserrathairline,sans-serif}.font2ultralight{font-family:montserratultra_light,sans-serif}.font2light{font-family:montserratlight,sans-serif}.font2semibold{font-family:montserratsemi_bold,sans-serif}.font2bold{font-family:montserratbold,sans-serif}.font2extrabold{font-family:montserratextra_bold,sans-serif}.font2black{font-family:montserratblack,sans-serif}.font3{font-family:Raleway,sans-serif}body,p{font-family:'Istok Web',sans-serif}.menu-panel ul li a{font-family:montserrat,sans-serif}
+.color{color:#7B0099}.white{color:#fff}.silver{color:#f8f8fa}.grey{color:#ccc}.dark{color:#232323}.black,a{color:#121212}.color-bg{background-color:#7B0099}.white-bg{background-color:#fff}.silver-bg{background-color:#f8f8fa}.grey-bg{background-color:#ccc}.dark-bg{background-color:#232323}.black-bg{background-color:#121212}.btn-nobel-color:hover,.featured-work-caption>span:after,.filter-trigger:hover,.journal-item-inner h3:after,.personal-intro-caption>span:after,.personal-intro-caption>span:before,.photography-intro-caption>span:after,.photography-intro-caption>span:before,.works-item-inner h3:after{background-color:#7B0099}a:hover{color:#7B0099}::selection{background:#7B0099;color:#232323}::-moz-selection{background:#7B0099;color:#232323}.menu-panel ul li a{color:#fff}.footcaps .video-trigger:hover i,.menu-panel ul li a:hover{color:#7B0099}.team-members .row:nth-child(odd) .team-info:before{border-right-color:#7B0099}.team-members .row:nth-child(even) .team-info:before{border-left-color:#7B0099}.btn-nobel-color{border-color:#7B0099;color:#7B0099}.btn-nobel-color:hover{border-color:#7B0099;color:#fff}.font1{font-family:'Istok Web',sans-serif}.font2{font-family:montserrat,sans-serif}.font2hairline{font-family:montserrathairline,sans-serif}.font2ultralight{font-family:montserratultra_light,sans-serif}.font2light{font-family:montserratlight,sans-serif}.font2semibold{font-family:montserratsemi_bold,sans-serif}.font2bold{font-family:montserratbold,sans-serif}.font2extrabold{font-family:montserratextra_bold,sans-serif}.font2black{font-family:montserratblack,sans-serif}.font3{font-family:Raleway,sans-serif}body,p{font-family:'Istok Web',sans-serif}.menu-panel ul li a{font-family:montserrat,sans-serif}
