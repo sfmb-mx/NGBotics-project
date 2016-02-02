@@ -25,8 +25,6 @@
 
 ------------------------------------------------------------------------------*/
 
-
-
 /* UMBG fa styles override fix */
 .umbg-player-controls .fa-pause::before, .umbg-player-controls .fa-play::before, .umbg-player-controls .fa-volume-up::before, .umbg-player-controls .fa-volume-off::before, .umbg-player-controls .fa-file::before, .umbg-player-controls .fa-file-o::before {
     left: 0;
