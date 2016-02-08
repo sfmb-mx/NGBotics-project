@@ -1,9 +1,9 @@
 <?php
 
 // Define some constants
-define( "RECIPIENT_NAME", "BizLand Hello" ); //UPDATE THIS TO YOUR NAME
+define( "RECIPIENT_NAME", "NGBotics hello" ); //UPDATE THIS TO YOUR NAME
 define( "RECIPIENT_EMAIL", "hello@bizland.biz" ); //UPDATE THIS TO YOUR EMAIL ID
-define( "EMAIL_SUBJECT", "Website Visitor Message" ); //UPDATE THIS TO YOUR SUBJECT
+define( "EMAIL_SUBJECT", "NGBotics website visitor message" ); //UPDATE THIS TO YOUR SUBJECT
 
 // Read the form values
 $success = false;
