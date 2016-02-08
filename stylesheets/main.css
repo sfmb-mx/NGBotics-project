@@ -329,10 +329,10 @@ section.mastwrap{
                     transition: all .4s ease-in-out;
 }
 .intro .tp-bullets.simplebullets.round .bullet::before{
-  background-color: #000;
+  background-color: #7b0099;
 }
 .intro .tp-bullets.simplebullets.round .bullet.selected{
-  border-color: #000;
+  border-color: #7b0099;
 }
 .intro.no-drag{
   cursor: default !important;
