@@ -1111,8 +1111,8 @@ textarea {
 }
 
 input, textarea {
-  border-color: #fff !important;
-  color: #999 !important;
+    border-color: #7b0099 !important;
+  color: #7b0099 !important;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
@@ -1476,3 +1476,22 @@ fieldset h1 {
 
 /*LESS Compiled to CSS (for production use only) - please refer to PDF guide for more info*/
 .color{color:#7B0099}.white{color:#fff}.silver{color:#f8f8fa}.grey{color:#ccc}.dark{color:#232323}.black,a{color:#121212}.color-bg{background-color:#7B0099}.white-bg{background-color:#fff}.silver-bg{background-color:#f8f8fa}.grey-bg{background-color:#ccc}.dark-bg{background-color:#232323}.black-bg{background-color:#121212}.btn-nobel-color:hover,.featured-work-caption>span:after,.filter-trigger:hover,.journal-item-inner h3:after,.personal-intro-caption>span:after,.personal-intro-caption>span:before,.photography-intro-caption>span:after,.photography-intro-caption>span:before,.works-item-inner h3:after{background-color:#7B0099}a:hover{color:#7B0099}::selection{background:#7B0099;color:#232323}::-moz-selection{background:#7B0099;color:#232323}.menu-panel ul li a{color:#fff}.footcaps .video-trigger:hover i,.menu-panel ul li a:hover{color:#7B0099}.team-members .row:nth-child(odd) .team-info:before{border-right-color:#7B0099}.team-members .row:nth-child(even) .team-info:before{border-left-color:#7B0099}.btn-nobel-color{border-color:#7B0099;color:#7B0099}.btn-nobel-color:hover{border-color:#7B0099;color:#fff}.font1{font-family:'Istok Web',sans-serif}.font2{font-family:montserrat,sans-serif}.font2hairline{font-family:montserrathairline,sans-serif}.font2ultralight{font-family:montserratultra_light,sans-serif}.font2light{font-family:montserratlight,sans-serif}.font2semibold{font-family:montserratsemi_bold,sans-serif}.font2bold{font-family:montserratbold,sans-serif}.font2extrabold{font-family:montserratextra_bold,sans-serif}.font2black{font-family:montserratblack,sans-serif}.font3{font-family:Raleway,sans-serif}body,p{font-family:'Istok Web',sans-serif}.menu-panel ul li a{font-family:montserrat,sans-serif}
+
+.btn-nobel-color2 {
+    border: solid 2px #7B0099;
+    background: #7B0099;
+    color: white;
+}
+
+.btn-nobel-color2:hover {
+    border: solid 2px #fff;
+    background: #fff;
+    color: #7B0099;
+}
+
+.f-container {
+    border-radius: 5px;
+    background-color: rgba(255,255,255,0.5);
+    padding-bottom: 40px;
+    padding-top:    40px;
+}
